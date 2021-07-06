@@ -1,0 +1,11 @@
+.count-widget{
+    border-radius: 10px;
+    max-height: 200px;
+    border: 1px solid #3e3e3e;
+    .count-widget-title{
+        font-size: 1rem
+    }
+    .count-widget-count{
+        font: 2rem;
+    }
+}
